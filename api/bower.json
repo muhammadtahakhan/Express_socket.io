@@ -1,0 +1,20 @@
+{
+  "name": "typed_api",
+  "description": "",
+  "main": "server.js",
+  "authors": [
+    "Taha <muhammadtahakhan222@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/muhammadtahakhan/Express_socket.io",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.0"
+  }
+}
